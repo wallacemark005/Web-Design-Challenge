@@ -1,5 +1,7 @@
 theme: jekyll-theme-merlot
+plugins:
+  - jekyll-feed
 
 title: [WEB-DESIGN-CHALLENGE]
 description: [Vitualize Latitude Analysis GitHub Page]
-url: ""
+
