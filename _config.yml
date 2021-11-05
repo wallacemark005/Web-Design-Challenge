@@ -4,4 +4,7 @@ plugins:
 
 title: [WEB-DESIGN-CHALLENGE]
 description: [Vitualize Latitude Analysis GitHub Page]
+baseurl: "Web-Design-Challenge"
+
+
 
